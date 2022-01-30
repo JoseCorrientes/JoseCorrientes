@@ -2,7 +2,7 @@
 <h3 align="center">Un apasionado FULL STACK DEVELOPER proximo a recibirse en Henry...</h3>
 <h3 align="center">Vivo en Corrientes, Argentina.</h3>
 
-<h4>  Soy un Desarrollador Full Stack proximo a recibirme del BootCamp Intensivo de programacion de Henry.  Me recibi de Ingeniero en Sistemas de Informacion, de la Universidad Tecnologica Nacional, trabaje en algunas pasantias relacionadas con la Carrera, pero luego durante muchos años -por cosas de la vida- trabaje en otros rubros.</br></br>
+<h4>  Soy un Desarrollador Full Stack proximo a recibirme del BootCamp Intensivo de programacion de Henry.  Me recibi de Ingeniero en Sistemas de Informacion, de la Universidad Tecnologica Nacional, trabaje en algunas pasantias relacionadas con la Carrera, pero luego durante muchos años -por cosas de la vida- trabaje en otros rubros.
   
    Ahora vuelvo con todas las ganas -gracias a Henry- a encaminarme a trabajar de lo que realmente me gusta: El desarrollo.</br></br>
 
@@ -14,10 +14,6 @@
 
 
 - 🔭 Actualmente estoy trabajando en mi Proyecto Grupal **Buyme!**
-
-- Mi aprendizaje incluye **javaScript, nodeJS, React, Redux, Express, Sequelize, PostGreSQL**
-
-
 
 - 📫Contactame... **josernestogarcia609@gmail.com**
 
