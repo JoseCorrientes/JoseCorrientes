@@ -2,13 +2,13 @@
 <h3 align="center">Un apasionado FULL STACK DEVELOPER proximo a recibirse en Henry...</h3>
 <h3 align="center">Vivo en Corrientes, Argentina.</h3>
 
-<h2>Soy un Desarrollador Full Stack proximo a recibirme del BootCamp Intensivo de programacion de Henry. Me recibi de Ingeniero en Sistemas de Informacion, de la Universidad Tecnologica Nacional, trabaje en algunas pasantias relacionadas con la Carrera, pero luego durante muchos años -por cosas de la vida- trabaje en otros rubros.
+<h4>Soy un Desarrollador Full Stack proximo a recibirme del BootCamp Intensivo de programacion de Henry. Me recibi de Ingeniero en Sistemas de Informacion, de la Universidad Tecnologica Nacional, trabaje en algunas pasantias relacionadas con la Carrera, pero luego durante muchos años -por cosas de la vida- trabaje en otros rubros.
 Ahora vuelvo con todas las ganas -gracias a Henry- a encaminarme a trabajar de lo que realmente me gusta: El desarrollo.
 
 Actualmente utilizo Tecnologias de FrontEnd y BackEnd como JavaScript, NodeJs, React, Redux, Express, Sequelize, PostGreSQL, HTML, CSS, ... y busco seguir profundizando en las mismas y aprender muchas más.
 
 Espero trabajar en una empresa donde pueda volcar todas mis ganas de mejorar, aprender, crecer... y ayudarla a lograr sus objetivos.  
-</h2>
+</h4>
 
 
 
