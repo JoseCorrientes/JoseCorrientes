@@ -4,7 +4,9 @@
 
 - 🔭 Actualmente estoy trabajando en mi Proyecto Grupal **Buyme!**
 
-- Estoy actualmente aprendiendo **javaScript, nodeJS, React, Redux, Express, Sequelize, PostGreSQL**
+- Mi aprendizaje incluye **javaScript, nodeJS, React, Redux, Express, Sequelize, PostGreSQL**
+
+
 
 - 📫Contactame... **josernestogarcia609@gmail.com**
 
