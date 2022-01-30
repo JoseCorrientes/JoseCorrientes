@@ -1,5 +1,6 @@
 <h1 align="center">Hola 👋, soy Jose Ernesto Garcia</h1>
-<h3 align="center">Un apasionado full stack developer proximo a recibirse en Henry...</h3>
+<h3 align="center">Un apasionado FULL STACK DEVELOPER proximo a recibirse en Henry...</h3>
+<h3 align="center">Vivo en Corrientes, Argentina.</h3>
 
 - 🔭 Actualmente estoy trabajando en mi Proyecto Grupal **Buyme!**
 
