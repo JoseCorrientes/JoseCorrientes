@@ -13,7 +13,7 @@
 
 
 
-- 🔭 Actualmente estoy trabajando en mi Proyecto Grupal **Buyme!**
+- 🔭 Ahora estoy trabajando en mi Proyecto Grupal **Buyme!** un E-Commerce.
 
 - 📫Contactame... **josernestogarcia609@gmail.com**
 
