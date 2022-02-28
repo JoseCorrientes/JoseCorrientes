@@ -13,7 +13,7 @@
 
 
 
-- 🔭 Ahora estoy trabajando en mi Proyecto Grupal **Buyme!** un E-Commerce.
+- 🔭 Acabamos de Aprobar nuestro Proyecto Final Grupal **Buyme!** un E-Commerce.
 
 - 📫Contactame... **josernestogarcia609@gmail.com**
 
