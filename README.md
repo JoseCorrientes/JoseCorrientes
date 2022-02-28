@@ -22,6 +22,9 @@
 - En Linkedin: 
   
 <a href="https://linkedin.com/in/joseernestogarciadeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joseernestogarciadeveloper" height="30" width="40" /></a>
+
+- En WhatsUp: (549) 379 4599549
+
 </p>
 
 <h3 align="left">Lenguajes y herramientas de desarrollo:</h3>
