@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Jose Ernesto Garcia</h1>
-<h3 align="center">Un apasionado FULL STACK DEVELOPER proximo a recibirse en Henry...</h3>
+<h3 align="center">Un apasionado FULL STACK DEVELOPER graduado en Henry...</h3>
 <h3 align="center">Vivo en Corrientes, Argentina.</h3>
 
 <h4>  Soy un Desarrollador Full Stack graduado del BootCamp Intensivo de programacion de Henry.  Me recibi de Ingeniero en Sistemas de Informacion, de la Universidad Tecnologica Nacional, trabaje en algunas pasantias relacionadas con la Carrera, pero luego durante muchos años -por cosas de la vida- trabaje en otros rubros.
