@@ -28,7 +28,7 @@
 ### 📈 Featured Projects
 
 - **[App-Turnos](https://github.com/JoseCorrientes/TakeATurn-Frontend)**: FrontEnd-Sistema integral de gestión de turnos médicos (Full Stack).
-- - **[App-Turnos](https://github.com/JoseCorrientes/TakeATurn-Backend)**: BackEnd-Sistema integral de gestión de turnos médicos (Full Stack).
+- **[App-Turnos](https://github.com/JoseCorrientes/TakeATurn-Backend)**: BackEnd-Sistema integral de gestión de turnos médicos (Full Stack).
 - **[Metanoiia Project]**: SPA financiera desarrollada profesionalmente para la toma de decisiones (Azure).
 - **[BuyMe App]**: E-commerce completo con pasarela de pagos e integraciones.
 
